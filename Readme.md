@@ -199,17 +199,17 @@ Durante o desenvolvimento, enfrentamos vários desafios técnicos, principalment
 
 Este projeto demonstrou como a tecnologia OCR pode ser aplicada para extrair texto de imagens, facilitando processos que requerem digitalização e interpretação de documentos impressos ou escritos à mão.
 
-Como Usar
+**Como Usar**
 
-    - **Clone o repositório.**
-    - **Instale as dependências.**
-    - **Coloque suas imagens na pasta inputs.**
-    - **Execute o script extract_text.py.**
-    - **Verifique os textos extraídos na pasta output.**
+- **Clone o repositório.**
+- **Instale as dependências.**
+- **Coloque suas imagens na pasta inputs.**
+- **Execute o script extract_text.py.**
+- **Verifique os textos extraídos na pasta output.**
 
 #### Sugestões para Aperfeiçoamento
 
-    Pré-processamento de Imagens: Implementar rotinas de ajuste de imagem (como correção de iluminação, alinhamento e escala) para melhorar a qualidade do texto extraído.
-    Suporte a Mais Formatos de Imagem: Ampliar a lista de formatos suportados e melhorar a robustez do script para manipular diferentes tipos de arquivos de imagem.
-    Interface Gráfica: Desenvolver uma interface gráfica para facilitar o uso do programa por usuários não técnicos.
-    Integração com APIs de Armazenamento: Adicionar funcionalidade para salvar resultados diretamente em serviços de nuvem como Google Drive ou Dropbox.
+- **Pré-processamento de Imagens:** Implementar rotinas de ajuste de imagem (como correção de iluminação, alinhamento e escala) para melhorar a qualidade do texto extraído.
+- **Suporte a Mais Formatos de Imagem:** Ampliar a lista de formatos suportados e melhorar a robustez do script para manipular diferentes tipos de arquivos de imagem.
+- **Interface Gráfica:** Desenvolver uma interface gráfica para facilitar o uso do programa por usuários não técnicos.
+- **Integração com APIs de Armazenamento:** Adicionar funcionalidade para salvar resultados diretamente em serviços de nuvem como Google Drive ou Dropbox.
