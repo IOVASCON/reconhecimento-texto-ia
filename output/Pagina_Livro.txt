@@ -1,0 +1,47 @@
+‘Série Fundamentos da Engenharia de Software ~ Ano |- Nimero 1~ UML
+
+Introducao
+
+0 cliente necessita entender 0 que os projetistas esto construindo
+pprecisam ter condigses de inferir os seus conhecimentos nos projetos para
+‘tender plenamente suas necessidades. Para isso 6 necessario estabelecer
+lum canal formal de interacdo onde a linguagem natural do cliente &
+transformada em linguagem técnica para a equipe de desenvolvimento. Com
+‘esse objetivo a UML se propée a ser uma linguagem padréo aceita e
+‘compreendida por todos os stakeholders.
+
+‘A modelagem utilzando a Linguagem de Modelagem Unificads, mais
+‘conhecida através da sigla em inglés UML que significa Unified Modeling
+
+é focada no paradigma Orientado a Objetos (00) cujos conceitos
+‘sdo classe, objeto, heranca, polimorfismo, encapsulamenio de atributos e
+métodos, alta coesdo © baixo acoplamenio. & usado para a andlise no
+focando na codificagéo do software ou hardware ¢ sim no entendimento do
+‘problema (andlise) ena sua solugao (projto).
+
+‘A UML representa simbolos, esses usados em diagramas que assim
+representam uma linguagem simbélica com regras claras © precisas para
+tlizagao desses sfmbolos nos diversos diagramas. O objetivo dos diagramas.
+@ apresentar miitiplas visoes do sistema chamado de modelo. Assim, um
+modelo UML um conjunto de dlagramas que servem para compreender &
+desenvolver um projeto de software, descrevendo 0 que o software deve fazer.
+‘A seguir segue uma breve descrigao dos diagramas da UML.
+
+je Ee) Ee ee i= an
+
+Caso de Uso
+
+© diagrama de caso de uso segundo Ivan Jacobson, um caso de uso
+um documento narrative que desoreve a sequiéncia de eventos de um ator
+‘que usa um sistema para completar um processo™. Um caso de uso é uma
+técnica de modelagem que descreve o que © novo sistema deve fazer e se
+baseia em um processo de licitagao de requisites enire os stakeholdres na
+‘condugdo de uma especificagao na qual todos interagem.
+
+Um caso de uso descreve quais comportamentos o sistema deverd
+responder para cada um dos usuérios do mesmo, servindo de formalizacao
+das ages que precisao ser desenvolvidas. Retratando uma lista de eventos
+‘entre os usuarios eo sistema em uma viséo abstrata, onde essa lista de
+‘eventos relatados abstratamente descreve as interagées desde o inicio da
+atividade até o fim da mesma.
+
