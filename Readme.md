@@ -191,14 +191,6 @@ Os resultados foram satisfatórios com a extração bem-sucedida de texto de vá
     A importância de verificar e tratar os formatos de arquivos ao processar diretórios dinamicamente.
     Diferentes configurações de pré-processamento podem ser necessárias dependendo da qualidade e tipo das imagens.
 
-#### Desafios e Soluções
-
-Durante o desenvolvimento, enfrentamos vários desafios técnicos, principalmente relacionados à configuração do ambiente e peculiaridades do processamento de imagens com OCR. As soluções foram documentadas ao longo deste arquivo para ajudar em futuras configurações e execuções.
-
-#### Conclusão
-
-Este projeto demonstrou como a tecnologia OCR pode ser aplicada para extrair texto de imagens, facilitando processos que requerem digitalização e interpretação de documentos impressos ou escritos à mão.
-
 **Como Usar**
 
 - **Clone o repositório.**
@@ -213,3 +205,11 @@ Este projeto demonstrou como a tecnologia OCR pode ser aplicada para extrair tex
 - **Suporte a Mais Formatos de Imagem:** Ampliar a lista de formatos suportados e melhorar a robustez do script para manipular diferentes tipos de arquivos de imagem.
 - **Interface Gráfica:** Desenvolver uma interface gráfica para facilitar o uso do programa por usuários não técnicos.
 - **Integração com APIs de Armazenamento:** Adicionar funcionalidade para salvar resultados diretamente em serviços de nuvem como Google Drive ou Dropbox.
+
+#### Desafios e Soluções
+
+Durante o desenvolvimento, enfrentamos vários desafios técnicos, principalmente relacionados à configuração do ambiente e peculiaridades do processamento de imagens com OCR. As soluções foram documentadas ao longo deste arquivo para ajudar em futuras configurações e execuções.
+
+#### Conclusão
+
+Este projeto demonstrou como a tecnologia OCR pode ser aplicada para extrair texto de imagens, facilitando processos que requerem digitalização e interpretação de documentos impressos ou escritos à mão.
